@@ -1,0 +1,22 @@
+html{
+    margin: 0;
+}
+
+.navbar{
+    color: rgb(14, 9, 82);
+    border-bottom: 3px solid rgb(28, 14, 84);
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.teks-bawah{
+    margin-top: 30vh;
+    margin-left: 90vh;
+    justify-content: center;
+    align-items: center;
+
+    
+}
